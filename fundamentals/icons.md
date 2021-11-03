@@ -11,14 +11,4 @@ coverY: 0
 For developer documentation, see: [Icon component page](../components/icon.md)
 {% endhint %}
 
-{% tabs %}
-{% tab title="Icon list" %}
-{% embed url="https://607731addb01d30021caeac2-fyscresabl.chromatic.com/iframe.html?args=&id=components-icon--all-icons&viewMode=story" %}
-Icon story from Storybook
-{% endembed %}
-{% endtab %}
-
-{% tab title="Figma file" %}
-{% embed url="https://www.figma.com/file/ISOnF90tuRFo20JhIx8slQ?node-id=2%3A40" %}
-{% endtab %}
-{% endtabs %}
+{% embed url="https://607731addb01d30021caeac2-iogipwnqkc.chromatic.com/iframe.html?args=&id=iconography--page&viewMode=story" %}

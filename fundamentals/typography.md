@@ -1,9 +1,11 @@
+---
+cover: >-
+  https://images.unsplash.com/reserve/uZYSV4nuQeyq64azfVIn_15130980706_64134efc6e_o.jpg?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxUeXBvZ3JhcGh5fGVufDB8fHx8MTYzNTk2MTE2OQ&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Typography
 
-{% hint style="info" %}
-**Good to know:** Storybook canvas embeds don't just work great for live components, you can also embed things like icons, or your color palette or typography tokens just as easily!
-{% endhint %}
-
-{% embed url="https://5ccbc373887ca40020446347-geedzbiswp.chromatic.com/iframe.html?id=typography--page&args=&viewMode=story" %}
-
-_These examples are taken from the excellent _[Storybook Example Design System](https://5ccbc373887ca40020446347-geedzbiswp.chromatic.com/?path=/story/icon--labels)_._
+{% embed url="https://607731addb01d30021caeac2-dbvvjivnlh.chromatic.com/iframe.html?args=&id=typography--page&viewMode=story" %}
+Type scale from Storybook
+{% endembed %}

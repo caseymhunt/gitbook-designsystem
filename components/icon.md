@@ -30,6 +30,6 @@ import { Icon, EditIcon } from "@firehydrant/design-system";
 
 ## Icon list
 
-{% embed url="https://607731addb01d30021caeac2-fyscresabl.chromatic.com/iframe.html?args=&id=components-icon--all-icons&viewMode=story" %}
-Icon story from Storybook
+{% embed url="https://main--607731addb01d30021caeac2.chromatic.com/iframe.html?id=components-icon--all-icons&viewMode=story" %}
+All icons from Storybook
 {% endembed %}

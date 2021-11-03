@@ -6,10 +6,10 @@
 
 * [Colors](fundamentals/colors.md)
 * [Icons](fundamentals/icons.md)
+* [Space & Radius](fundamentals/space-and-radius.md)
 * [Typography](fundamentals/typography.md)
 
 ## 🧱 Components
 
 * [Icon](components/icon.md)
-* [AvatarStack](components/avatarstack.md)
 * [Button](components/button.md)

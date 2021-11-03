@@ -1,3 +1,7 @@
+---
+description: <Button> component
+---
+
 # Button
 
 Buttons are used to perform actions in the product.

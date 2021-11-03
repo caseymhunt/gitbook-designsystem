@@ -11,7 +11,7 @@ Brand colors serve most functions within FireHydrant, with status and accent col
 
 Accent colors are least commonly used, but can be applied decoratively.&#x20;
 
-{% embed url="https://607731addb01d30021caeac2-utlitdwato.chromatic.com/iframe.html?args=&id=colors--page&viewMode=story" %}
+{% embed url="https://main--607731addb01d30021caeac2.chromatic.com/iframe.html?args=&id=colors--page&viewMode=story" %}
 Color palette from Storybook
 {% endembed %}
 
